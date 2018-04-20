@@ -1,4 +1,5 @@
-
+/**This is a swing program which generates a random email
+Author:Nitin Dutta*\
 package javaapplication6;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
